@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# 1. Fast cars
+# 2. Great Food
+# 3. Awesome Movies
